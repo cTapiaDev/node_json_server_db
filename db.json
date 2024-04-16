@@ -1,0 +1,285 @@
+{
+    "pecados": [
+        {
+            "nombre": "Meliodas",
+            "raza": "Demonio",
+            "edad": "3000+",
+            "pecado": "Ira",
+            "simbolo": "Dragón",
+            "armas": [
+                {
+                    "nombre": "Espada Demonio Lostvayne"
+                },
+                {
+                    "nombre": "Espada de Liz"
+                }
+            ]
+        },
+        {
+            "nombre": "Ban",
+            "raza": "Humano",
+            "edad": "+10.000",
+            "pecado": "Codicia",
+            "simbolo": "Zorro",
+            "armas": [
+                {
+                    "nombre": "Bastón Divino Courechouse"
+                }
+            ]
+        },
+        {
+            "nombre": "Diane",
+            "raza": "Gigante",
+            "edad": "750",
+            "pecado": "Envidia",
+            "simbolo": "Serpiente",
+            "armas": [
+                {
+                    "nombre": "Martillo de Guerra Gideon"
+                }
+            ]
+        },
+        {
+            "nombre": "King",
+            "raza": "Hada",
+            "edad": "1300+",
+            "pecado": "Pereza",
+            "simbolo": "Grizzly",
+            "armas": [
+                {
+                    "nombre": "Lanza Espiritual Chastiefol"
+                }
+            ]
+        },
+        {
+            "nombre": "Gowther",
+            "raza": "Muñeco",
+            "edad": "4780",
+            "pecado": "Lujuria",
+            "simbolo": "Cabra",
+            "armas": [
+                {
+                    "nombre": "Arco Gemelo Herrit"
+                }
+            ]
+        },
+        {
+            "nombre": "Merlin",
+            "raza": "Humana",
+            "edad": "3000+",
+            "pecado": "Gula",
+            "simbolo": "Jabalí",
+            "armas": [
+                {
+                    "nombre": "Estrella de la Mañana Aldan"
+                }
+            ]
+        },
+        {
+            "nombre": "Escanor",
+            "raza": "Humano",
+            "edad": "40",
+            "pecado": "Orgullo",
+            "simbolo": "León",
+            "armas": [
+                {
+                    "nombre": "Hacha Divina Rhitta"
+                }
+            ]
+        }
+    ],
+    "arcangeles": [
+        {
+            "nombre": "Ludociel",
+            "raza": "Diosa",
+            "habilidades": [
+                {
+                    "nombre": "Ark"
+                },
+                {
+                    "nombre": "Destello"
+                }
+            ]
+        },
+        {
+            "nombre": "Mael",
+            "raza": "Diosa",
+            "habilidades": [
+                {
+                    "nombre": "Ark"
+                },
+                {
+                    "nombre": "Sol"
+                }
+            ]
+        },
+        {
+            "nombre": "Sariel",
+            "raza": "Diosa",
+            "habilidades": [
+                {
+                    "nombre": "Ark"
+                },
+                {
+                    "nombre": "Tornado"
+                }
+            ]
+        },
+        {
+            "nombre": "Tarmiel",
+            "raza": "Diosa",
+            "habilidades": [
+                {
+                    "nombre": "Ark"
+                },
+                {
+                    "nombre": "Océano"
+                }
+            ]
+        }
+    ],
+    "mandamientos": [
+        {
+            "nombre": "Derieri",
+            "edad": "377",
+            "mandamiento": "Pureza",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Combo Star"
+                }
+            ]
+        },
+        {
+            "nombre": "Drole",
+            "edad": "880",
+            "mandamiento": "Paciencia",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Ground"
+                }
+            ]
+        },
+        {
+            "nombre": "Estarossa",
+            "edad": "3380",
+            "mandamiento": "Amor",
+            "habilidades": [
+                {
+                    "nombre": "Full Counter"
+                },
+                {
+                    "nombre": "Hellblaze"
+                }
+            ]
+        },
+        {
+            "nombre": "Fraudrin",
+            "edad": "554",
+            "mandamiento": "Desinterés",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Full Size"
+                }
+            ]
+        },
+        {
+            "nombre": "Galand",
+            "edad": "991",
+            "mandamiento": "Verdad",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Critical Over"
+                }
+            ]
+        },
+        {
+            "nombre": "Gloxinia",
+            "edad": "1400",
+            "mandamiento": "Reposo",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Disaster"
+                }
+            ]
+        },
+        {
+            "nombre": "Grayroad",
+            "edad": "156",
+            "mandamiento": "Pacifismo",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Curse"
+                }
+            ]
+        },
+        {
+            "nombre": "Melascula",
+            "edad": "362",
+            "mandamiento": "Fe",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Hell Gate"
+                }
+            ]
+        },
+        {
+            "nombre": "Monspeet",
+            "edad": "415",
+            "mandamiento": "Reticencia",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "Hellblaze"
+                },
+                {
+                    "nombre": "Trick Star"
+                },
+                {
+                    "nombre": "Fuego del Purgatorio"
+                }
+            ]
+        },
+        {
+            "nombre": "Zeldris",
+            "edad": "3253",
+            "mandamiento": "Piedad",
+            "habilidades": [
+                {
+                    "nombre": "Manipulación de la Materia Oscura"
+                },
+                {
+                    "nombre": "God"
+                },
+                {
+                    "nombre": "Hellblaze"
+                },
+                {
+                    "nombre": "Ominous Nebula"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Pequeño servidor con información de personajes de Seven Deadly Sins",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Carlos Tapia",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
